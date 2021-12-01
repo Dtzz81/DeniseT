@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dtzz81
+- 👋 Hi, I’m @Denise
 - 👀 I’m interested in ...analytics
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...some basic projects
